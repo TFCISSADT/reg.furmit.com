@@ -1,0 +1,9 @@
+{
+  "name": "Registration-Frontend",
+  "short_name": "Registration-Frontend",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "zh-Hant"
+}
